@@ -11,6 +11,11 @@ const links = [
         description: "Get all your notes in the form of PDFs"
     },
     {
+        title: "Cyber Guardians (Cyber Security Community)",
+        url: "https://cyberguardians.tech",
+        description: "Join our community for Cyber Security enthusiasts"
+    },
+    {
         title: "GitHub",
         url: "https://github.com/techieyuvraj",
         description: "My projects and code repositories"
