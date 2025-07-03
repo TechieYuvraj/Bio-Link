@@ -16,6 +16,11 @@ const links = [
         description: "Join our community for Cyber Security enthusiasts"
     },
     {
+        title: "Resume Insights",
+        url: "https://resume.rtunotes.in",
+        description: "Get insights on how to build a better resume"
+    },
+    {
         title: "GitHub",
         url: "https://github.com/techieyuvraj",
         description: "My projects and code repositories"
